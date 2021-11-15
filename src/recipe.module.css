@@ -1,0 +1,27 @@
+.recipe {
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+  min-width: 40%;
+  flex-direction: column;
+  box-shadow: 14px 14px 25px -6px rgba(107, 107, 107, 0.62);
+  -webkit-box-shadow: 14px 14px 25px -6px rgba(77, 77, 77, 0.62);
+  -moz-box-shadow: 14px 14px 25px -6px rgba(77, 77, 77, 0.62);
+  padding: 2rem;
+  background: white;
+}
+
+.image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: 1.5rem;
+}
+
+.heading {
+  text-transform: uppercase;
+  margin: 1rem 0 1.3rem 0;
+  color: rgb(65, 65, 65);
+}
